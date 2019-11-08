@@ -13,7 +13,8 @@ loops
 
 #### Technologies Used
 
-java
-while loops
+* java
+* while loops
+* another cool technology
 
 #### Lessons Learned
